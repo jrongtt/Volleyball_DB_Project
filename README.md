@@ -9,4 +9,4 @@ After running this DDL file a Java Swing user-interface can be rendered by runni
 
 The interface allows for a user to update, delete, and query information about the database.
 
-An ER diagram representing the Database can be viewed in the attachment 'ER_diagram.pdf'
+An ER diagram representing the Database can be viewed in the attachment 'ER_Diagram.png'
